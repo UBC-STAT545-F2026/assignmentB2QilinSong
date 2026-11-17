@@ -1,0 +1,19 @@
+Package: assignmentB2QilinSong
+Title: Count Missing Values by Group
+Version: 0.1.0
+Authors@R: 
+    person("Qilin", "Song", , "sql0629@gmail.com", role = c("aut", "cre"))
+Description: Provides a function to summarize missing values by group.
+    Given a data frame or tibble and a grouping column, the function
+    returns one row per group and the number of missing values in
+    each remaining column.
+License: MIT + file LICENSE
+Config/roxygen2/version: 8.1.1
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Imports: 
+    dplyr
+Suggests: 
+    datasets,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
