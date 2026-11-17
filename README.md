@@ -8,7 +8,7 @@ of missing values in each remaining column.
 
 ## Installation
 
-Install version 0.1.0 from GitHub using `devtools`:
+Install version 0.1.1 from GitHub using `devtools`:
 
 ``` r
 # Install devtools if needed:
@@ -16,7 +16,7 @@ Install version 0.1.0 from GitHub using `devtools`:
 
 devtools::install_github(
   "UBC-STAT545-F2026/assignmentB2QilinSong",
-  ref = "0.1.0"
+  ref = "0.1.1"
 )
 ```
 
